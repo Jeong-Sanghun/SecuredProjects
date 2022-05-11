@@ -4,6 +4,9 @@
 # 홍익대학교 ExP Make팀 장기프로젝트 마녀약국
 2D / 비주얼 노벨
 
+# 플레이 영상
+[프로토타입 영상](https://youtu.be/kmRkHworuqY) / [개편 영상](https://youtu.be/M3QtoRzKKFU)
+
 # 팀구성 
 **기획** : 홍영표
  
@@ -39,6 +42,9 @@ C#
 
 # 대학생 개발팀 외주 3Less
 Unity / 2D / Android / 비주얼노벨
+
+# 플레이 영상
+[플레이 영상](https://youtu.be/UE8IELhH-N4)
 
 # 팀구성 
 **기획** : 김정이
