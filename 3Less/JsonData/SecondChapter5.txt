@@ -1,0 +1,175 @@
+{
+    "dialogList": [
+        {
+            "character": "NAR.(SYS)",
+            "actionKeyword": "moneyGauge10,fadeOut",
+            "dialog": "부모님으로부터 용돈을 받았습니다. "
+        },
+        {
+            "character": "NAR.",
+            "dialog": "학교가 끝나고 교실을 나가려는데 같은 반 애가 말을 걸었다."
+        },
+        {
+            "character": "학생",
+            "dialog": "야, 오늘 학교 끝나고 뭐해?"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "딱히... 연습할 것 같은데."
+        },
+        {
+            "character": "학생",
+            "dialog": "급한 거 없으면 우리 동아리 잠깐 들를래? 스트릿 댄스 동아리인데 재밌어.",
+            "routeFirst": "그럴까? 한 번도 제대로 본 적 없는데 재미있겠다.",
+            "routeSecond": "미안. 곧 실기고사라 연습해야 할 것 같아."
+        },
+        {
+            "character": "주인공(A)",
+            "actionKeyword": "routeFirst",
+            "dialog": "그럴까? 한 번도 제대로 본 적 없는데 재미있겠다."
+        },
+        {
+            "character": "학생",
+            "dialog": "재미있어. 전통무용이랑 또 달라."
+        },
+        {
+            "dialog": "오늘 보고 재미있으면 다음 달 공연 있는데 그때도 와!"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "스트릿 댄스 동아리 연습실에 들렀다."
+        },
+        {
+            "dialog": "확실히 전통무용과는 다른 에너지와 활기가 느껴졌다."
+        },
+        {
+            "character": "학생",
+            "dialog": "어때?"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "멋지다. 보는 것도 재미있었어."
+        },
+        {
+            "character": "학생",
+            "dialog": "그치? 혹시... 우리 동아리 곧 플래시몹 캠페인 할 생각인데 너도 낄래?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "오늘 하는 걸 보니 연습이 힘들어 보이지도 않고 짬짬이 스트레스 해소하기에 좋을 것 같다."
+        },
+        {
+            "character": "주인공(A)",
+            "actionKeyword": "healthGauge1",
+            "dialog": "그래. 연습 언제부터인데?"
+        },
+        {
+            "character": "MES",
+            "dialog": "휴대폰에 '스트릿 댄스 연습' 일정이 추가되었습니다."
+        },
+        {
+            "dialog": "휴대폰에 '플래시몹 캠페인' 일정이 추가되었습니다."
+        },
+        {
+            "character": "주인공(A)",
+            "actionKeyword": "routeSecond",
+            "dialog": "미안. 곧 실기고사라 연습해야 할 것 같아."
+        },
+        {
+            "character": "학생",
+            "dialog": "그래? 그럼 어쩔 수 없지, 뭐."
+        },
+        {
+            "dialog": "되게 열심히 한다. 상위권 성적을 유지하려면 그 정도 해야하는 건가?"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "그런 거 아냐. 스트릿 댄스 재미있을 것 같은데 아쉽네."
+        },
+        {
+            "character": "학생",
+            "dialog": "그러면 다음 달에 우리 공연하는데 한 번 와볼래?"
+        },
+        {
+            "dialog": "실기고사 끝나고 하거든."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "이것까지 거절하기는 어려울 것 같다. "
+        },
+        {
+            "dialog": "잠깐 공연 보는 정도야, 뭐. 기분전환이라고 하면 되지."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "그래. 그때는 갈 수 있을 것 같아."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "실기고사가 끝나고 스트릿 댄스 동아리의 공연을 보았다."
+        },
+        {
+            "dialog": "에너지와 활기가 느껴지는 게 인상깊었다."
+        },
+        {
+            "character": "학생",
+            "dialog": "어땠어?"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "재미있었어. 너 멋지더라."
+        },
+        {
+            "character": "학생",
+            "dialog": "크크크, 고마워. "
+        },
+        {
+            "dialog": "사실 우리 동아리에서 곧 플래시몹 캠페인 할 건데 너도 낄래?"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "플래시몹?"
+        },
+        {
+            "character": "학생",
+            "dialog": "응. 별로 힘들게는 안할 거고, 다같이 재미있게 해보려고."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "그래. 재미있겠네. 연습 언제부터야?"
+        },
+        {
+            "character": "MES",
+            "dialog": "휴대폰에 '스트릿 댄스 연습' 일정이 추가되었습니다."
+        },
+        {
+            "actionKeyword": "routeEnd",
+            "dialog": "휴대폰에 '플래시몹 캠페인' 일정이 추가되었습니다."
+        },
+		{
+		            "character": "주인공(A)",
+		    "actionKeyword": "playerMove"
+		},
+		{
+		            "character": "주인공(A)",
+		    "actionKeyword": "fadeIn"
+		},
+        {
+            "character": "NAR.",
+            "dialog": "스트릿 댄스는 정말 재미있었다."
+        },
+        {
+            "dialog": "애초에 전통무용보다 이쪽을 전공했으면 더 좋았겠다 싶을 정도였다. "
+        },
+        {
+            "dialog": "얼마나 연습을 했는지, 플래시몹에서 나와 커플댄스를 추기로 한 애가 학을 뗄 정도였다."
+        },
+        {
+            "dialog": "덕분에 플래시몹에서 센터를 차지했다."
+        },
+        {
+            "actionKeyword": "healthGauge1,sceneEnd",
+            "dialog": "엄청 뿌듯하다. 누구라도 붙잡고 자랑하고 싶다."
+        }
+    ]
+}

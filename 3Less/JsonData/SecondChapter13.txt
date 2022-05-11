@@ -1,0 +1,376 @@
+{
+    "dialogList": [
+        {
+            "character": "NAR.",
+            "dialog": "정신없이 나와서 갖고 나온 게 아무것도 없다. 핸드폰이랑 지갑 정도."
+        },
+        {
+            "dialog": "아무리 생각해도 집에 들어가는 건 불가능하다. 분명 사달이 날 것이다."
+        },
+        {
+            "dialog": "띠링, 메시지가 왔다."
+        },
+        {
+            "dialog": "확인해볼까?",
+            "routeFirst": "확인한다.",
+            "routeSecond": "무시한다."
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeFirst",
+            "dialog": "휴대폰을 들어 확인해 본다"
+        },
+        {
+            "character": "동생",
+            "actionKeyword": "phoneOn"
+        },
+        {
+            "character": "동생",
+            "dialog": "야, 너 미쳤어? 당장 들어와!"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "나 못 가. 절대 못 가. 나 죽어."
+        },
+        {
+            "character": "동생",
+            "dialog": "죽든 살든 일단 집에 들어와서 해결해"
+        },
+        {
+            "dialog": "너 그렇게 나가서 뭐 어떡할 건데"
+        },
+        {
+            "dialog": "언젠가는 들어와야 되잖아"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "몰라"
+        },
+        {
+            "dialog": "나 그 집에서 더 이상은 못 살아."
+        },
+        {
+            "dialog": "내가 하루이틀 참고 산 줄 알아?"
+        },
+        {
+            "character": "동생",
+            "dialog": "너만 참고 살아?"
+        },
+        {
+            "dialog": "그냥 한 귀로 듣고 한 귀로 흘리면서 살아!"
+        },
+        {
+            "dialog": "나중에 능력 생기면 연을 끊든 너 알아서 하고."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "넌 엄마 아빠 맘에 들 능력도 되고"
+        },
+        {
+            "dialog": "관심 많이 받으니까 내 맘 몰라."
+        },
+        {
+            "character": "동생",
+            "dialog": "그거 꽁으로 하는 줄 알아?"
+        },
+        {
+            "dialog": "나도 다 살아남으려고 발악하는 거야."
+        },
+        {
+            "dialog": "눈 꾹 감고 빌어"
+        },
+        {
+            "dialog": "너 그러다 타이밍 놓치면 진짜 끝이야"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "ㅋㅋ야, 너 나 걱정하냐?"
+        },
+        {
+            "dialog": "되게 웃긴다?"
+        },
+        {
+            "dialog": "먼저 진상 부려서 나한테 화살 쏟아지게 하고 이게 뭐냐?"
+        },
+        {
+            "character": "동생",
+            "dialog": "너 같으면 화 안 나겠냐?"
+        },
+        {
+            "dialog": "내가 화낸 건 유감인데 내 탓만은 아님"
+        },
+        {
+            "dialog": "난 경고했다. 너 그러고 막 나가면"
+        },
+        {
+            "dialog": "너고 나고 우리 집이고 뭐고 그냥 다 박살나는 거야"
+        },
+        {
+            "dialog": "너 때문에."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "나 때문? ㅋㅋ"
+        },
+        {
+            "dialog": "야, 그냥 내가 태어난 게 잘못이라고 해라."
+        },
+        {
+            "dialog": "차단함."
+        },
+        {
+            "character": "동생",
+            "actionKeyword": "phoneOff",
+            "dialog": "난 걱정해서"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "차단했다. 속이 끓는다."
+        },
+        {
+            "actionKeyword": "routeSecond",
+            "dialog": "확인해봐야 짜증만 더 난다."
+        },
+        {
+            "actionKeyword": "routeEnd",
+            "dialog": "알림을 지웠다."
+        },
+        {
+            "dialog": "나, 이제 어떡하지?",
+            "routeFirst": "할머니께 연락해본다.",
+            "routeSecond": "경찰서에 아버지를 가정폭력으로 신고한다. ",
+            "routeThird": "선생님께 연락한다.",
+            "routeFourth": "친구에게 도움을 청한다."
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeFirst,fadeIn",
+            "dialog": "휴대폰 주소록을 뒤적여 할머니에게 문자를 보냈다."
+        },
+        {
+            "character": "할머니",
+            "actionKeyword": "phoneOn"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "할머니, 나. 지금 시간 있어요?"
+        },
+        {
+            "character": "할머니",
+            "dialog": "아이구! 이게 누구야! 이 시간에 무슨 일이야?"
+        },
+        {
+            "actionKeyword": "phoneOff",
+            "dialog": "우리 손주 연락인데 그럼 당연히 시간이 되지."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "다정한 답장을 보자마자 눈물이 쏟아졌다."
+        },
+        {
+            "dialog": "할머니를 붙잡고 그간의 일을 모두 털어놓았다. "
+        },
+        {
+            "dialog": "할머니는 묵묵히 들어주시고 괜찮다고만 말씀해주셨다."
+        },
+        {
+            "dialog": "마음이 한결 가벼워졌지만 앙금은 아직 남아있었다."
+        },
+        {
+            "dialog": "다음날, 가족들을 보기 거북해 방 밖으로 한 발짝도 나서지 않았다. 당연히 학교도 가지 않았다."
+        },
+        {
+            "character": "어머니",
+            "dialog": "너 할머니까지 끌어들여서 이게 뭐하는 짓이야."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "엄마?"
+        },
+        {
+            "character": "어머니",
+            "dialog": "할머니같이 연로한 분들께 걱정거리 안겨드리는 게 얼마나 큰 불효인지 몰라?"
+        },
+        {
+            "dialog": "걱정되어서 제대로 잠도 못 주무셨나보더라. 다 잘 해결되었다고 네가 빨리 연락드려."
+        },
+        {
+            "actionKeyword": "healthGauge-10",
+            "dialog": "할머니한테 연락 받고 엄마 낯이 얼마나 뜨거웠는지 알아?"
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeSecond",
+            "dialog": "예전부터 생각하던 거지만, 아빠가 나한테 하는 건 가정폭력이다. 경찰에 신고하자."
+        },
+        {
+                    "actionKeyword": "otherMove",
+            "dialog": "문자로도 신고가 된다고 했었지?"
+        },
+        {
+            "character": "경찰",
+            "dialog": "무슨 일이십니까?"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "가정 폭력 신고 가능한가요?"
+        },
+        {
+            "dialog": "문자보다는 만나서 이야기하는 게 좋겠다는 대답에 몰래 거리로 나갔다."
+        },
+        {
+            "character": "경찰",
+            "dialog": "가족 구성원에게 물리적 폭력을 당했나요? 그러니까, 때리거나 밀치거나..."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "그...건 아니에요."
+        },
+        {
+            "character": "경찰",
+            "dialog": "그럼 밥을 굶기거나 학교에 못 가게 하는 일은요?"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "그...런 것도 없었어요."
+        },
+        {
+            "dialog": "하지만 인신공격이랑 언어폭력이 심하세요. 더 이상 집에 있을 수가 없을 것 같아요."
+        },
+        {
+            "character": "경찰",
+            "dialog": "그러면 그것과 관련하여 정신과나 심리상담소에 방문한 적이 있나요?"
+        },
+        {
+            "dialog": "얼마나 큰 정신적 피해를 입었는지 증명할 수 있는 방법이 있냐는 말이에요."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "...아니오."
+        },
+        {
+            "character": "경찰",
+            "dialog": "그러면 지금 당장은 할 수 있는 일이 없습니다."
+        },
+        {
+            "dialog": "일단 돌아가시고, 앞으로도 그런 일이 계속되고 너무 심하면 다시 한 번 와보세요."
+        },
+        {
+            "dialog": "그리고, 음, 이건 막냇동생같아서 하는 말인데"
+        },
+        {
+            "dialog": "경찰 일 하다보면 세상 더러운 꼴 참 많이 봐요. 아, 학생이 별 것 아니라는 게 아니라 기가 막힌 일 당하는 사람이 은근히 많다니까?"
+        },
+        {
+            "dialog": "그러니까 너무 세상이 나한테만 왜 이래, 이렇게 생각하지 말고 긍정적으로 사는 게 나을 거에요."
+        },
+        {
+            "dialog": "어차피 지금 뭐 어떻게 할 수 있는 상황도 아니고... 그쵸?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "옛날부터 계속되어왔고 너무 심각해서 집을 나온 건데."
+        },
+        {
+            "actionKeyword": "healthGauge-10",
+            "dialog": "언제까지 버티라는 걸까. 난 못할 것 같아. "
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeThird",
+            "dialog": "주변에 도움을 청할 어른이 마땅치 않다. 선생님께 문자를 했다. 다행히 폰을 보고 계셨는지 답은 금방 왔다."
+        },
+        {
+            "character": "선생님",
+            "actionKeyword": "phoneOn"
+        },
+        {
+            "character": "선생님",
+            "dialog": "어어, 이 시간에 웬 문자야?"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "선생님, 저 도와주시면 안 돼요?"
+        },
+        {
+            "character": "선생님",
+            "dialog": "무슨 일이야?"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "집을 나오게 됐는데..."
+        },
+        {
+            "dialog": "(대충 ... 처리)"
+        },
+        {
+            "dialog": "저 맡으신지 얼마 되지도 않으셨는데 죄송해요."
+        },
+        {
+            "dialog": "그런데 어디에 도움을 청해야 할지 몰라서..."
+        },
+        {
+            "character": "선생님",
+            "dialog": "사정은 참 딱한데... 지금 이 시간에 갑작스럽게 이야기해도 선생님이 해줄 수 있는 게 많지 않아..."
+        },
+        {
+            "dialog": "일단 경찰서나 다른 데 어디 하룻밤 지낼 곳은 없을까? 선생님도 가족이 있고 해서..."
+        },
+        {
+            "dialog": "내일 학교에 오면 자세하게 이야기해보자."
+        },
+        {
+            "character": "주인공(A)",
+            "actionKeyword": "phoneOff",
+            "dialog": "아, 네... 늦은 시간에 죄송했습니다."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "뾰족한 수가 없으리라고 예상은 했지만 내일 이야기하자니... 난 내일 학교에 갈 수 없을지도 모르는데."
+        },
+        {
+            "actionKeyword": "healthGauge-10",
+            "dialog": "아무래도 별로 현명한 선택은 아니었던 것 같다."
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeFourth",
+            "dialog": "자취를 하고 있다던 친구에게 문자를 했다. "
+        },
+        {
+            "dialog": "빈말인 걸 알지만 지금은 도움을 청할 곳이 마땅치 않으니... 염치고 예의고 가릴 때가 아니다. "
+        },
+        {
+            "character": "자취방 친구",
+            "actionKeyword": "phoneOn"
+        },
+        {
+            "character": "자취방 친구",
+            "dialog": "어, 야. 지금 뭐해ㅋㅋ"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "나 오늘 하루만 재워주면 안될까."
+        },
+        {
+            "character": "자취방 친구",
+            "dialog": "갑자기? 무슨 일?"
+        },
+        {
+            "character": "주인공(A)",
+            "actionKeyword": "phoneOff",
+            "dialog": "잠깐 집을 나오게 됐는데..."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "친구에게 사정을 설명했다. 친구는 갑작스러운 일에 당황스러워 보였지만 일단 집으로 오라며 주소를 불러주었다. "
+        },
+        {
+        "actionKeyword": "routeEnd",
+            "dialog": "그리고 아무것도 묻지 않고 밤을 지낼 수 있도록 이부자리를 깔아주었다."
+        },
+        {
+            "actionKeyword": "playerMove"
+        }
+    ]
+}

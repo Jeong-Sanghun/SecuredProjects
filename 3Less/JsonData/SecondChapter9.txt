@@ -1,0 +1,47 @@
+{
+    "dialogList": [
+        {
+            "character": "NAR.",
+            "dialog": "돈이 거의 다 떨어져서 어쩔 수 없이 집에 들어와야 했다. "
+        },
+        {
+            "dialog": "현관에는 가족들의 신발이 가지런히 놓여있었다."
+        },
+        {
+            "dialog": "심장이 두근댄다. 언제 돌아온 걸까? 내가 외박을 한 걸 알았을까?"
+        },
+        {
+            "character": "어머니",
+            "dialog": "어딜 다녀왔는데 현관에서 미적대고 있어?"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "언제 왔어?"
+        },
+        {
+            "character": "어머니",
+            "dialog": "얼마 안 됐어."
+        },
+        {
+            "character": "아버지",
+            "dialog": "이 시간까지 겁도 없이 밖을 돌아다니고 말이야."
+        },
+        {
+            "dialog": "가족 없으니까 아주 살판났구만."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "내가 가출했던 걸 아예 눈치도 못 챈 것 같다."
+        },
+        {
+            "dialog": "...다행이다."
+        },
+        {
+            "actionKeyword": "healthGauge-2",
+            "dialog": "그런데 마음 한 켠이 헛헛하다."
+        },
+		{
+		    "actionKeyword": "playerMove"
+		}
+    ]
+}

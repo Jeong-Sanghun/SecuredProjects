@@ -1,0 +1,61 @@
+﻿<bundleName>{0}
+<switch>{Lily(nothing)}
+<symptom>{-1,2,0,0,0}
+<disease>{dehydration1,flame2}
+[]
+안녕
+[Ruellia]
+뭐야 너
+[]
+나 릴리지
+[Ruellia]
+무슨일이야
+[]
+그냥 구경왔어
+[Ruellia]
+뭐야 할일이 그렇게 없어?
+[Ruellia]
+적당히 보다 가
+[]
+사실은 그런거아니야
+[Ruellia]
+아픈데 있는거같은데
+[]
+그래서 왔지
+[Ruellia]
+겉으로보기에도 그러네
+[]
+나 탈수도 있어.
+[]
+그리고 주변에 이 불길 뭐야
+[Ruellia]
+기다려봐 약줄게
+<right>
+<coin>{100}
+[]
+아 고맙다
+[]
+역시 루엘리아
+[Ruellia]
+역시 나야
+<switch>{Lily{down}}
+[]
+나 간다
+[Ruellia]
+잠깐 기다려봐
+[Ruellia]
+야 잠깐만
+<switch>{Lily{up}}
+[]
+뭐야
+
+<wrong>
+[]
+에라
+
+<skip>
+[] 날 보내지마 
+
+
+
+

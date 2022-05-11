@@ -1,0 +1,391 @@
+{
+    "dialogList": [
+        {
+            "character": "주인공 (A)",
+            "dialog": "여기는 버섯이 있던 곳보다 지나가기 위험해 보여."
+        },
+        {
+            "dialog": "으, 나갈 방법도 모르겠는데 왜 점점 공간이 무서워지지?"
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "playerMoveFirst, fishMoveFirst",
+            "dialog": "바로 고개를 들면 시든 꽃과 가지가 기분나쁜 모습을 이루고 있다. "
+        },
+        {
+            "character": "NAR.",
+            "dialog": "나무로 만든 괴물 뒤로는 앙상한 판자로 만들어진 길이 나있다."
+        },
+        {
+            "dialog": "판자 징검다리 끝에는 꽃이 잔뜩 달린 나무가 보인다. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "오랜만에 꽃보니까 좋다. "
+        },
+        {
+            "dialog": "남의 꿈에 끌려들어와서 보는 거긴 하지만."
+        },
+        {
+            "character": "금붕어 ",
+            "dialog": "저기 가보자! 꽃이 많아서 예뻐. "
+        },
+        {
+            "dialog": "가고싶어. 너도 같이 가. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "너는 날아가면 되지만, 나는 저기까지 가기 무서워."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "시선을 내리자 판자 아래 쪽 늪과 가시덤불이 보인다. "
+        },
+        {
+            "dialog": "발이라도 헛디디면 큰일나겠네."
+        },
+        {
+            "dialog": "위험하다고 생각하면서도 나무 근처로 가보고 싶다는 마음이 솟아오른다. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "꼭 뭐에 홀린 것 같아. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "판자길이 중간이 끊어지지만 않았으면 가까이 가봤을 텐데. "
+        },
+        {
+            "dialog": "어, 나무 괴물 손에 들린게 판자야?"
+        },
+        {
+            "dialog": "저것만 놓으면 꽃나무까지 갈 수 있을 것 같아! 그냥 가져가면 되나?"
+        },
+        {
+            "character": "나무괴물",
+            "dialog": "괜...찮아.... "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "헉, 이것도 말하는거야?"
+        },
+        {
+            "character": "나무괴물",
+            "dialog": "다 괜찮아질거야. "
+        },
+        {
+            "character": "금붕어 ",
+            "actionKeyword": "stop1seconds",
+            "dialog": "안괜찮아! 하나도 안괜찮을거야. 내가 모를 줄 알고! 거짓말쟁이!"
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "아! 놀랐잖아! 넌 또 왜 그래?"
+        },
+        {
+            "dialog": "왜 이렇게 싫어하지? 불안하게…."
+        },
+        {
+            "actionKeyword": "playerMoveSecond, fishMoveSecond, panzaTouch",
+            "dialog": "그래도 여기에 발판으로 삼을만한건 저거 밖에 없으니까. "
+        },
+        {
+            "character": "NAR.",
+            "dialog": "나무 괴물에 대한 걱정보다 꽃나무에 가고싶다는 마음이 더 컸다.  "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "밑져야 본전이지 뭐. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "꽃나무는 가까이서 보면 더 예쁠 것 같아. "
+        },
+        {
+            "dialog": "근데 이거 떨어지면 괜찮을까? "
+        },
+        {
+            "dialog": "설마 꿈속인데 별거 없겠지....? 오히려 떨어지면 깨는 거 아니야?"
+        },
+        {
+            "character": "금붕어 ",
+            "dialog": "자각몽은 아파. "
+        },
+        {
+            "character": "주인공 (A)",
+            "actionKeyword": "playerMoveThird, fishMoveThird,bubbleTouch",
+            "dialog": "무서운 소리 하지말고. "
+        },
+        {
+            "character": "주인공 (A)",
+            "actionKeyword": "imgFlashbackFirst",
+            "dialog": "여기도 비눗방울이 있네?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "\"데려가기는 무슨.\""
+        },
+        {
+            "character": "NAR.",
+            "dialog": "\"너가 싹싹 빌어도 받아들여줄까말까거든.\""
+        },
+        {
+            "actionKeyword": "imgFalse",
+            "dialog": "\"예전처럼 편하게 지내려면 너가 감수할 줄도 알아야지.\" "
+        },
+        {
+            "character": "금붕어",
+            "dialog": "남이 감수하는게 왜 당연한데?"
+        },
+        {
+            "dialog": "다 알면서 입다물고 있는게 제일 나빠."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "내가 직접 들은 것도 아닌데 괜히 자존심이 상한다. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "이게 대체 누구야? 목소리는 어린데 엄청 재수없게 말하네. "
+        },
+        {
+            "dialog": "들을 사람 기분은 안중에도 없나봐. "
+        },
+        {
+            "character": "NAR.",
+            "dialog": "이것도 누군가의 기억일까?"
+        },
+        {
+            "dialog": "떨어지던 사람의 경험이 조금씩 구체적으로 연상된다. "
+        },
+        {
+            "dialog": "누구라도 좋으니까 이런 얘기를 하고싶었던 걸지도 모르겠다. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "여기서 나가려면 이런 얘기들을 더 많이 들어야 겠구나."
+        },
+        {
+            "character": "주인공 (A)",
+            "actionKeyword": "playerMoveFourth, fishMoveFourth",
+            "dialog": "더 단서를 찾아서, 무슨 일이 있었는지 알아봐야 겠어."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "꽃나무가 가까워질 수록 커다랗게 보여. "
+        },
+        {
+            "dialog": "계속 이 나무 옆에 있고 싶다. "
+        },
+        {
+            "character": "NAR.",
+            "dialog": "다른 사람의 바람이 머리로 흘러들어온 것 처럼 꽃나무가 애틋하다. "
+        },
+        {
+            "character": "금붕어 ",
+            "dialog": "꽃나무에도 대롱대롱. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "대롱대롱? 꽃이 늘어져있는 가지가 있나?"
+        },
+        {
+            "dialog": "어, 저기에 무슨 반찬통 같은게 메달려 있잖아?"
+        },
+        {
+            "character": "금붕어 ",
+            "dialog": "저기엔 나한테 없는게 열려. "
+        },
+        {
+            "dialog": "그래서 가까이가서 보고싶었는데 저기가 다 상해있어. "
+        },
+        {
+            "dialog": "이렇게 예쁜데 몸통이 텅텅 비었네. "
+        },
+        {
+            "character": "NAR.",
+            "dialog": "시선을 옮기자 화려한 꽃나무 뒤쪽으로 시들고 상한 껍질이 드러난다. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "꽃나무가 상했잖아! 엄청 많이 썩었네, 꽃이 저렇게 많이 폈는데 왜 상한거지?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "모순적인 꽃나무가 단서가 될지도 몰라. "
+        },
+        {
+            "dialog": "꽃나무가 어떻게 썩은채로 꽃이 필 수 있지?"
+        },
+        {
+            "character": "금붕어  ",
+            "dialog": "텅텅 빈 예쁜 꽃나무! 두드리면 통통 울리는 빈나무. "
+        },
+        {
+            "actionKeyword": "playerMoveFifth,banchanTouch",
+            "dialog": "일단 단서가 될지도 모르는 반찬통을 확인해볼까?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "공들여 만든 반찬이 가득 찬 반찬통. "
+        },
+        {
+            "character": "NAR.",
+            "dialog": "보고 있으면 갖고 싶다는 욕심이 든다."
+        },
+        {
+            "character": "주인공 (A)",
+            "actionKeyword": "imgFalse",
+            "dialog": "우와, 맛있겠다. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "누군진 몰라도 솜씨가 좋으시네. 보기만 해도 배고파. "
+        },
+        {
+            "character": "금붕어 ",
+            "dialog": "그러게, 부럽다."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "…이것도 다른 사람거야?"
+        },
+        {
+            "character": "금붕어 ",
+            "dialog": "나는 저런거 받을 일이 없었지. "
+        },
+        {
+            "dialog": "너도 부모님이, 아니면 어른들이 음식해서 보내준 적 있어?"
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "살면서 몇번은 있었지. 반찬같은거?"
+        },
+        {
+            "character": "금붕어 ",
+            "dialog": "누가 마음 써준다는 건 참 행복한 일이야."
+        },
+        {
+            "dialog": "너무 행복한 사람들은 보고 있기가 가끔 힘들어. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "힘들면 그런 생각이 들긴 하던데."
+        },
+        {
+            "character": "금붕어  ",
+            "dialog": "힘들어서 그런 생각이 드는 거랑은 달라. "
+        },
+        {
+            "dialog": "평소에도 계속 남이랑 나를 번갈아가면서 생각하는거지. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "생각이 너무 많을것 같아. "
+        },
+        {
+            "character": "NAR.",
+            "dialog": "금붕어가 잠시 조용해졌다. "
+        },
+        {
+            "actionKeyword": "playerMoveSixth,panzaDrag",
+            "dialog": "또 기분이 상했나?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "금붕어가 돌발행동을 하기 전에 판자부터 구멍 위에 내려놓았다. "
+        },
+        {
+            "character": "금붕어 ",
+            "dialog": "없는 것 보다는 나아. "
+        },
+        {
+            "dialog": "너무 걱정을 안하다 보면 사람이 순진해진단 말이야. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "너가 직접 겪어본 것 처럼 말하네. "
+        },
+        {
+            "character": "금붕어 ",
+            "dialog": "그럼! 남의 문제일수록 금방 해결될거라고 믿는사람들!"
+        },
+        {
+            "dialog": "너도 뭔지 알겠어?"
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "알 것 같기도 하고 아닌 것 같기도 하고...."
+        },
+        {
+            "dialog": "그런데 이번에는 아까처럼 화 안내?"
+        },
+        {
+            "dialog": "기분 상한 줄 알고 걱정했어."
+        },
+        {
+            "character": "금붕어 ",
+            "dialog": "좋진 않아. 너랑 대화하면서 자꾸 뭔가를 생각해야 하잖아."
+        },
+        {
+            "dialog": "나무괴물 때문에 짜증나기고 다고. "
+        },
+        {
+            "dialog": "괜찮다는게 다 뭐야?"
+        },
+        {
+            "actionKeyword": "playerMoveSeventh",
+            "dialog": "전부 다 소용없어. "
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "brokenSound,immediateDialog",
+            "dialog": "심정이 복잡해지는 차에 어디서 쩍쩍, 나무 갈라지는 소리가 들린다. "
+        },
+        {
+            "dialog": "판자로 된 길이 불안하게 흔들린다. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "어, 어, 이거 판자에서 나는 소리야?"
+        },
+        {
+            "character": "금붕어 ",
+            "dialog": "다 필요없어서 그래. 꽃나무도 썩었고 판자도 썩었어. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "뭐? 그렇게 말만 하지 말고! "
+        },
+        {
+            "character": "금붕어 ",
+            "dialog": "괜찮을거야. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "안괜찮아! 나는 판자가 부서져도 너처럼 떠 있을 수가 없어! "
+        },
+        {
+            "character": "금붕어 ",
+            "dialog": "그치, 소용없는 말이지?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "금붕어와 나무괴물이 나눈 대화가 스쳐지나갔다. "
+        },
+        {
+            "dialog": "어떤 심정으로 소리를 지른 건지는 이해했지만 판자가 버텨주지 않는다. "
+        },
+        {
+            "dialog": "중요한 단서 같은데…."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "너는 언제 그말을 들은거야?"
+        },
+        {
+            "actionKeyword": "panzaDrop",
+            "dialog": "듣고 나서는 어떻게 했는데?"
+        }
+    ]
+}

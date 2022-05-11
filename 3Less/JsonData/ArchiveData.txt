@@ -1,0 +1,163 @@
+{
+    "archiveDataList": [
+        {
+            "sceneNameEnum": "0"
+        },
+        {
+            "sceneNameEnum": "1"
+        },
+        {
+            "sceneNameEnum": "2"
+        },
+        {
+            "sceneNameEnum": "3"
+        },
+        {
+            "sceneNameEnum": "4"
+        },
+        {
+            "sceneNameEnum": "5"
+        },
+        {
+            "sceneNameEnum": "6",
+            "dialog": "들뜬 연말의 거리를 오손도손 걸어가는 가족의 모습. 뒤에 처진 내 눈에는 등만이 보여 말은 못했지만 서러웠다."
+        },
+        {
+            "sceneNameEnum": "7",
+            "dialog": "휘영청 뜬 달과 높은 별. 이상한 애를 만났다. 안해도 될 소리를 잔뜩 했지만 덕분에 마음은 편했다. 다음에 보면 민망할 테니 다시 만나지 않길."
+        },
+        {
+            "sceneNameEnum": "8",
+            "dialog": "스트릿 댄스는 굉장했다. 보는 순간 빠져들었다. 홀린 듯이 동아리에 가입까지 했다. 하다보면 숨이 막히는 무용과는 달리 아무리 연습해도 힘이 들지 않는다. 최고!"
+        },
+        {
+            "sceneNameEnum": "9"
+        },
+        {
+            "sceneNameEnum": "10"
+        },
+        {
+            "sceneNameEnum": "11"
+        },
+        {
+            "sceneNameEnum": "12"
+        },
+        {
+            "sceneNameEnum": "13"
+        },
+        {
+            "sceneNameEnum": "14",
+            "dialog": "나 X튜브 스타 됐다! 좋은 댓글이 엄청 달려서 몇 번이나 봤다. ...근데 이상한 댓글들이 자꾸 기억에 남는다. 신경 쓰지 말자! 할 일 없나보지!"
+        },
+        {
+            "sceneNameEnum": "15"
+        },
+        {
+            "sceneNameEnum": "16",
+            "dialog": "집을 나왔다. 얼떨결에 나온 거지만 사실 오랫동안 이런 장면을 상상해왔는지도 모른다. 손을 꼬집어 봤더니 분명한 현실이었다. 이제는 돌아갈 수 없다. "
+        },
+        {
+            "sceneNameEnum": "17"
+        },
+        {
+            "sceneNameEnum": "18"
+        },
+        {
+            "sceneNameEnum": "19"
+        },
+        {
+            "sceneNameEnum": "20"
+        },
+        {
+            "sceneNameEnum": "21"
+        },
+        {
+            "sceneNameEnum": "22",
+            "dialog": "첫 면접의 경험은 이상했다. 원래 면접이라는 게 그런가? 왜 생판 처음 보는 남한테 잘해주려고 하지? 수상하다, 수상해."
+        },
+        {
+            "sceneNameEnum": "23"
+        },
+        {
+            "sceneNameEnum": "24"
+        },
+        {
+            "sceneNameEnum": "25"
+        },
+        {
+            "sceneNameEnum": "26",
+            "dialog": "내 손으로 잡은 첫 알바를 시작했다. 아무도 도와주지 않았지만 해냈다. 몇 가지 마음에 걸리는 것들은... 차차 해결해야지. 할 수 있겠지?"
+        },
+        {
+            "sceneNameEnum": "27",
+            "dialog": "돈, 돈, 돈. 돈 때문이다. 이렇게 되기 전까지는 잘 알지도 못하던 친구 집에 얹혀 살고 있는 것도, 잘은 못했어도 좋아했던 무용도 못하는 것도. "
+        },
+        {
+            "sceneNameEnum": "28"
+        },
+        {
+            "sceneNameEnum": "29",
+            "dialog": "배수망 같은 거. 한 번도 안해봤는데 어떻게 알아. 알려주지. 아냐, 나 때문에 친구가 피해 보고 있는데 감사는 못할 망정 못되게 굴지 마."
+        },
+        {
+            "sceneNameEnum": "30"
+        },
+        {
+            "sceneNameEnum": "31"
+        },
+        {
+            "sceneNameEnum": "32"
+        },
+        {
+            "sceneNameEnum": "33"
+        },
+        {
+            "sceneNameEnum": "34",
+            "dialog": "최악의 날. 동생이 편의점에 찾아왔다. 걔는 맞는 말만 하고 나는 늘 멍청하고 나쁜 애가 된다. 그런데 나도 걔 입장에서 살았으면 그만큼 똑똑했을 거다."
+        },
+        {
+            "sceneNameEnum": "35"
+        },
+        {
+            "sceneNameEnum": "36",
+            "dialog": "부모님이랑 사이 좋아서 좋겠다. 맛있는 반찬도 받아서 좋겠다. 부러워서 친구 앞에서 울었다. 얼마나 당황스러웠을까. 난 왜 이 지경이지."
+        },
+        {
+            "sceneNameEnum": "37"
+        },
+        {
+            "sceneNameEnum": "38"
+        },
+        {
+            "sceneNameEnum": "39"
+        },
+        {
+            "sceneNameEnum": "40"
+        },
+        {
+            "sceneNameEnum": "41"
+        },
+        {
+            "sceneNameEnum": "42"
+        },
+        {
+            "sceneNameEnum": "43"
+        },
+        {
+            "sceneNameEnum": "44"
+        },
+        {
+            "sceneNameEnum": "45",
+            "dialog": "교무실에서, 사람들이 다 보는 앞에서 혼났다. 상담 선생님, 담임 선생님, 엄마, 아빠가 다 작당했고 나는 순식간에 구제불능 문제아가 되었다.  "
+        },
+        {
+            "sceneNameEnum": "46"
+        },
+        {
+            "sceneNameEnum": "47"
+        },
+        {
+            "sceneNameEnum": "48"
+        }
+    ]
+}

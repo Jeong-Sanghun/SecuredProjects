@@ -1,0 +1,65 @@
+{
+    "dialogList": [
+        {
+            "character": "편의점 사장",
+            "dialog": "다음주 부터 40분 정도는 일찍 나올래?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "재고 트집이 잠잠해지니 이제는 출근 시간을 잡고 늘어졌다."
+        },
+        {
+            "character": "편의점 사장",
+            "dialog": "보니까 손이 좀 느린 것 같더라고."
+        },
+        {
+            "dialog": "일찍일찍 나와야 쓰겠어."
+        },
+        {
+            "dialog": "요새 가게 정리도 제대로 안되는것 같아서."
+        },
+        {
+            "dialog": "먼저와서 청소 딱, 정리 딱 해놓는게 원래 기본이야. "
+        },
+        {
+            "character": "NAR.",
+            "dialog": "별 중요하지도 않은 것들로 간섭이 끊이질 않는다."
+        },
+        {
+            "dialog": "내가 가출한 걸 몰랐으면 이렇게 대놓고 잔소리하진 않았겠지."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "노력해볼게요."
+        },
+        {
+            "character": "편의점 사장",
+            "dialog": "그냥, 알겠습니다  하는거야."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "다 짜증이 났다. "
+        },
+        {
+            "dialog": "가게에서 나오는길에 관둔다는 문자를 통보했다. "
+        },
+        {
+            "dialog": "충동적이라는 들었지만 이미 엎지른 물이었다."
+        },
+        {
+            "actionKeyword": "moneyGauge+4",
+            "dialog": "대답도 없이 일한 만큼의 금액이 들어왔다."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "이래도 되나.…"
+        },
+        {
+            "actionKeyword": "healthGauge+1",
+            "dialog": "그래도 더 나은 기회가 있을거야. "
+        },
+        {
+            "actionKeyword": "playerMove"
+        }
+    ]
+}

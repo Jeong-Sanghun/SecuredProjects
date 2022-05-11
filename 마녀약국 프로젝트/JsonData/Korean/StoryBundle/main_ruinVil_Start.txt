@@ -1,0 +1,154 @@
+{
+    "storyDialogArray": [
+        {
+            "effect": "fadeOut",
+            "effectParameter": "0"
+        },
+        {
+            "effect": "background",
+            "effectParameter": "room_ruinVillage"
+        },
+        {
+            "effect": "blackOut"
+        },
+        {
+            "dialog": "^speed^{0.8}바움력 850년 헤이모프의 달^speedEnd^"
+        },
+        {
+            "effect": "blackOutEnd"
+        },
+        {
+            "dialog": "사도 헤이모프의 인도에 따라, 인간들은 세계수에 당도하기에 이르렀다."
+        },
+        {
+            "dialog": "황무지 사이로 홀로 서있는 울창하고 거대한 나무를 보자, 인간들은 눈물을 흘리며 하늘을 향해 제를 올리기로 하였다."
+        },
+        {
+            "effect": "dialogBoxHide",
+            "effectParameter": "1"
+        },
+        {
+            "effect": "delay",
+            "effectParameter": "1.5"
+        },
+        {
+            "talkingCharName": "카리",
+            "dialog": "...님!"
+        },
+        {
+            "talkingCharName": "카리",
+            "dialog": "인님...!"
+        },
+        {
+            "talkingCharName": "카리",
+            "dialog": "주인님!"
+        },
+        {
+            "talkingCharName": "루엘리아",
+            "dialog": "우응…."
+        },
+        {
+            "effect": "fadeInAndFocus",
+            "charSlot1": "Cari",
+            "charSlot4": "Ruellia"
+        },
+        {
+            "effect": "bgm",
+            "effectParameter": "Pharmacy",
+            "charSlot1": "Cari",
+            "charSlot4": "Ruellia"
+        },
+        {
+            "talkingCharName": "카리",
+            "dialog": "얘기하고 있는데 조는 거예요, 지금?",
+            "charSlot1": "Cari",
+            "charEffect1": "feeling",
+            "charEffectParameter1": "angry2",
+            "charSlot4": "Ruellia"
+        },
+        {
+            "talkingCharName": "루엘리아",
+            "dialog": "하아암. 악몽을 꾼 것 같은데….",
+            "charSlot1": "Cari",
+            "charEffect1": "feeling",
+            "charEffectParameter1": "angry1",
+            "charSlot4": "Ruellia"
+        },
+        {
+            "talkingCharName": "카리",
+            "dialog": "아직도 잠꼬대를 하다니. 에잇.",
+            "charSlot1": "Cari",
+            "charSlot4": "Ruellia"
+        },
+        {
+            "charSlot1": "Cari",
+            "charSlot4": "Ruellia",
+            "charEffect4": "feeling",
+            "charEffectParameter4": "panic"
+        },
+        {
+            "effect": "sfx",
+            "effectParameter": "Alert",
+            "charSlot1": "Cari",
+            "charSlot4": "Ruellia",
+            "charEffect4": "shake",
+            "charEffectParameter4": "1"
+        },
+        {
+            "talkingCharName": "루엘리아",
+            "dialog": "까아아악!",
+            "charSlot1": "Cari",
+            "charSlot4": "Ruellia",
+            "charEffect4": "feeling",
+            "charEffectParameter4": "panic"
+        },
+        {
+            "talkingCharName": "카리",
+            "dialog": "오늘 약학 이론 정리해서 기록하기로 했던거, 기억은 하고 있어요?",
+            "charSlot1": "Cari",
+            "charEffect1": "feeling",
+            "charEffectParameter1": "talk",
+            "charSlot4": "Ruellia"
+        },
+        {
+            "talkingCharName": "루엘리아",
+            "dialog": "…… 당연하지.",
+            "charSlot1": "Cari",
+            "charSlot4": "Ruellia",
+            "charEffect4": "feeling",
+            "charEffectParameter4": "nothing"
+        },
+        {
+            "talkingCharName": "카리",
+            "dialog": "안 봐도 딱 알겠네. 잊어버렸죠?",
+            "charSlot1": "Cari",
+            "charEffect1": "feeling",
+            "charEffectParameter1": "angry1",
+            "charSlot4": "Ruellia"
+        },
+        {
+            "talkingCharName": "루엘리아",
+            "dialog": "아하하… 하하…… 응.",
+            "charSlot1": "Cari",
+            "charSlot4": "Ruellia",
+            "charEffect4": "feeling",
+            "charEffectParameter4": "grin"
+        },
+        {
+            "talkingCharName": "카리",
+            "dialog": "이게 다 주인님 기억을 되찾기 위해서 하는거잖아요!",
+            "charSlot1": "Cari",
+            "charEffect1": "feeling",
+            "charEffectParameter1": "angry2",
+            "charSlot4": "Ruellia"
+        },
+        {
+            "talkingCharName": "카리",
+            "dialog": "기억 나는 게 약 만드는 것밖에 없다면서요.",
+            "charSlot1": "Cari",
+            "charSlot4": "Ruellia",
+            "charEffect4": "feeling",
+            "charEffectParameter4": "nothing"
+        }
+    ]
+}

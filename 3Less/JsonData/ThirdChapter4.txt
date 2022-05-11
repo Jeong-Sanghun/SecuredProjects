@@ -1,0 +1,238 @@
+{
+    "dialogList": [
+        {
+            "character": "NAR.",
+            "dialog": "평소라면 학교에 갔을시간에 식사를 하러 거리로 나왔다. "
+        },
+        {
+            "dialog": "허기와 해방감이 느껴진다. "
+        },
+        {
+            "dialog": "어디로 갈까?",
+            "routeFirst": "샐러드바 ",
+            "routeSecond": "샐러드 전문점 샐러드",
+            "routeThird": "근처 마트 푸드코트",
+            "routeFourth": "편의점 샐러드",
+            "routeFifth": "편의점 인스턴트 푸드"
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeFirst",
+            "dialog": "식욕에 홀린 사람처럼 혼자 샐러드바에 갔다. "
+        },
+        {
+            "dialog": "내 테이블을 제외하면 전부 가족 고객이지만 모른척했다. "
+        },
+        {
+            "actionKeyword": "healthGauge+2,moneyGauge-3",
+            "dialog": "가격대가 부담스러웠지만 기분이 좋다. "
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeSecond",
+            "dialog": "집에서 자주 먹던 샐러드를 구매했다."
+        },
+        {
+            "dialog": "직접 사려니 생각보다 부담스러운 가격대였다. "
+        },
+        {
+            "actionKeyword": "healthGauge+1,moneyGauge-3",
+            "dialog": "꾸역꾸역 먹던 날이 많아서 비쌀거라는 생각을 제대로 못했었다."
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeThird",
+            "dialog": "햄버거, 스파게티, 마라탕…"
+        },
+        {
+            "dialog": "이 근처 마트의 푸드코트에는 적당한 가격대의 맛있는 음식이 많다."
+        },
+        {
+            "dialog": "하나당 칼로리가 집에서 관리하던 식단 하루치 보다 높은 음식도 있다."
+        },
+        {
+            "actionKeyword": "healthGauge+2,moneyGauge-2",
+            "dialog": "못먹게 했던 음식일 수록 맛있었다."
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeFourth",
+            "dialog": "편의점에서 파는 샐러드를 구매했다."
+        },
+        {
+            "dialog": "물기 많은 야채가 축축 늘어져서 맛이 없었다."
+        },
+        {
+            "actionKeyword": "moneyGauge-1",
+            "dialog": "익숙한 음식이라 속은 편했다."
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeFifth",
+            "dialog": "라면, 삼각김밥, 각종 즉석식품들…"
+        },
+        {
+            "dialog": "편의점은 자극적인 음식으로 가득하다."
+        },
+        {
+            "actionKeyword": "healthGauge+1,moneyGauge-1,routeEnd",
+            "dialog": "강한 조미료 맛과 간 때문에 중독성이 느껴진다."
+        },
+        {
+            "character": "MES",
+            "actionKeyword": "soundMessageAlarm",
+            "dialog": "한국 무용 소품 공동구매 할 사람!"
+        },
+        {
+            "dialog": "이번 주 금요일까지 이 계좌로 보내줘. "
+        },
+        {
+            "dialog": "잔고가 부족하여 충전할 수 없습니다."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "은행 점검시간도 아닐텐데."
+        },
+        {
+            "dialog": "설마 돈을 다썼나?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "원래도 식비는 용돈으로 해결했기 때문에 부족할 것 같지는 않았다."
+        },
+        {
+            "dialog": "놀라서 확인해보니 통장에는 얼마 남지 않은 잔고 밖에 없다."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "몇 번 비싼걸 먹었다고 이렇게 된다고?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "돈이 정말 봄눈처럼 녹았다."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "며칠 됐다고 이렇게…. 한국 무용 말고 다른 전공 시간에도 소품 필요할텐데."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "몇 끼는 자취방 음식으로 신세지고 몇끼는 굶었지만 돈은 점점 줄어갔다. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "소품이 문제가 아니라 잘못하면 밥을 못먹게 생겼네. "
+        },
+        {
+            "dialog": "돈이라도 좀 들고 나올걸."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "막막한 처지에 한숨만 나온다"
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "앞으로 어떻게 지내야 하지? ",
+            "routeFirst": "인터넷 검색창에 가출 후 생활이라고 검색했다.",
+            "routeSecond": "인터넷 검색창에 미성년자 아르바이트라고 쳤다."
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeFirst",
+            "dialog": "'버티기 어려웠다…', '귀가지도 난항…' 등등 부정적인 제목의 게시물이 상단에 뜬다."
+        },
+        {
+            "dialog": "간간이 가출팸이라는 단어가 보였다."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "가출팸? 이건 또 뭐야?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "처음 보는 단어를 검색하자 온갖 사건사고를 다루는 뉴스가 나왔다."
+        },
+        {
+            "dialog": "부정적인 시선으로 꽉꽉 찬 인터넷 게시물이다."
+        },
+        {
+            "dialog": "더 찾아보니 가출한 청소년들 끼리 뭉쳐 만든 집단이라는 것을 알게되었다."
+        },
+        {
+            "dialog": "아르바이트나 거처 문제에 관한 교류도 내부에도 활발하게 이루어진다고 한다."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "그러면 저런 정보가 필요해서 들어갈 수도 있는거잖아. 친구가 필요할 수도 있고."
+        },
+        {
+            "dialog": "가서 나쁜 짓만 안하면 되는거 아니야?"
+        },
+        {
+            "dialog": "무슨 범죄 조직처럼 글을 써놨네."
+        },
+        {
+            "dialog": "가출한 애들은 이렇게 보이는구나...."
+        },
+        {
+            "dialog": "아니면 정말 이렇게 되기 쉬운건가?"
+        },
+        {
+            "actionKeyword": "healthGauge-3",
+            "dialog": "막연한 속상함이 차올랐다."
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeSecond",
+            "dialog": "미성년자 아르바이트에 관한 게시물을 여러개 읽었다."
+        },
+        {
+            "dialog": "만 15세 이상, 만 18세 미만 미성년자는 원칙적으로 가족관계증명서, 법정후견인 동의서를 제출해야 아르바이트가 가능하다."
+        },
+        {
+            "dialog": "그렇지만 부모님 몰래 아르바이트에 성공했다는 사람의 성공 후기도 찾을 수 있었다."
+        },
+        {
+            "dialog": "성공 후기를 따라서 일단 아르바이트 앱을 서너개 깔았다. 시간대가 괜찮아 보이는 아르바이트는 대게 만 20세 이상 채용이다."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "왜 만 19세도 아니고 만 20세 부터 쓰는거야?"
+        },
+        {
+            "dialog": "21살부터 갑자기 성숙한 인간이 되는 것도 아닌데."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "이유야 짐작이 가지만 채용조건이 야속하기만 하다."
+        },
+        {
+            "dialog": "그나마 10대도 가능한 곳을 찾아 지원했다."
+        },
+        {
+            "dialog": "용돈 받는 안전한 생활이 좋긴 좋았구나."
+        },
+        {
+            "dialog": "집에서 나와 살면서 용돈만 받을 수 있으면 좋겠다."
+        },
+        {
+            "actionKeyword": "healthGauge-1, routeEnd",
+            "dialog": "하긴 그걸 허락해주실 부모님이면 집에서 나오지도 않았겠지...."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "한숨이 저절로 나왔다. "
+        },
+        {
+            "dialog": "휴대폰을 끄고 멍하게 거리를 바라봤다."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "아무리 그래도 지금 돌아가면 이도저도 못해보고 계속 가족들한테 끌려다닐거야."
+        },
+        {
+            "actionKeyword": "playerMove",
+            "dialog": "아직은 못 돌아가."
+        }
+    ]
+}

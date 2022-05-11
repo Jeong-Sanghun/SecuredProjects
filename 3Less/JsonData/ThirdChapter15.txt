@@ -1,0 +1,72 @@
+{
+    "dialogList": [
+        {
+            "character": "NAR.",
+            "dialog": "몸이 천근만근 괴롭다."
+        },
+        {
+            "dialog": "운동은 못하고 아르바이트 시간은 늘면서 체력이 뚝뚝 떨어진다."
+        },
+        {
+            "character": "학생",
+            "dialog": "야, 다음 시간 시청각교육이래, 좀 자."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "어? 아냐, 괜찮아. "
+        },
+        {
+            "character": "학생",
+            "dialog": "눈이 퀭한데? 요새 밤에 뭐하길래 그래?"
+        },
+        {
+            "dialog": "설마 공부하느랴...?"
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "아니. 요새 집중도 잘 안돼."
+        },
+        {
+            "character": "학생",
+            "dialog": "그런 것 같더라."
+        },
+        {
+            "dialog": "수업 시간에도 멍하잖아."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "몸이 허공에 붕 떠서 빙빙 도는거 같다."
+        },
+        {
+            "dialog": "친구 말대로 조금이라도 자야겠다."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "얼마 눈을 붙이지도 못했는데 친구가 어깨를 흔들어 깨웠다. "
+        },
+        {
+            "character": "학생",
+            "dialog": "일어나봐, 쌤이 너 교무실로 오래. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "왜? "
+        },
+        {
+            "character": "학생",
+            "dialog": "몰라, 그냥 오라던데?"
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "아, 졸린데…"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "선잠이 들었다 깨서 머리가 뜨끈뜨끈하다."
+        },
+        {
+            "actionKeyword": "playerMove",
+            "dialog": "짜증을 꾹꾹 누르면서 교무실로 향했다."
+        }
+    ]
+}

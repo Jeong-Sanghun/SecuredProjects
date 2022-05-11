@@ -1,0 +1,18 @@
+{
+	"billTitle" : "BIll",
+    "billWholeGain": "Whole Gain",
+    "billWholeSpend": "Whole Spent",
+    "billGain": "Gain",
+    "billSpend": "Spent",
+	"billDayth" : "th Day",
+    "documentGainedRegion" : "Gained Region : ",
+    "boxCoinGained" : "You've got $ coins.",
+     "boxGained" : "You've got $.",
+    "reasonArray": [
+        "Sell Medicine",
+        "Buy Medicine",
+        "Buy Tool",
+        "Maintenece Fee"
+		"Explore Treasure Box"
+    ]
+}

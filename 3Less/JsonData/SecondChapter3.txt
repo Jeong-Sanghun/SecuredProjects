@@ -1,0 +1,89 @@
+{
+    "dialogList": [
+        {
+            "character": "NAR.",
+            "actionKeyword": "playerMove",
+            "dialog": "연말이라 그런지 거리에는 사람이 많다."
+        },
+        {
+            "character": "동생",
+            "dialog": "엄마, 나 추워."
+        },
+        {
+            "character": "어머니",
+            "dialog": "옆에 딱 붙어. 미끄러져서 다치기라도 하면 큰일이니까."
+        },
+        {
+            "character": "동생",
+            "dialog": "아빠도 이리 와. "
+        },
+        {
+            "character": "NAR.",
+            "dialog": "나만 부르지 않는 걸로 마음이 상하는 건, 내가 예민한 걸까?"
+        },
+        {
+            "dialog": "나란히 걷다가는 사람에 치일새라, 나는 자연스럽게 뒤로 빠졌다. "
+        },
+        {
+            "character": "동생",
+            "dialog": "내가 이번에 금메달 따서 엄마 아빠 호강시켜 줄게."
+        },
+        {
+            "character": "어머니",
+            "dialog": "어이구, 호강은 내 돈으로 할 수 있네요."
+        },
+        {
+            "character": "아버지",
+            "dialog": "뭐 갖고 싶은 거 있어? 금메달 따면 아빠가 해줄게."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "내가 없이도 하하호호 잘도 웃는다."
+        },
+        {
+            "dialog": "아니, 내가 끼지 않아서 웃는 건가?"
+        },
+        {
+                  "character": "NAR.",
+            "dialog": "확실히 아까 음식점이랑 비교해보면 내가 없는 쪽이 더 가족같은 분위기다. ",
+            "routeFirst": "나 아까 음식점에 핸드폰을 두고 왔나 봐. 먼저 가.",
+            "routeSecond": "조용히 따라간다."
+        },
+        {
+            "character": "주인공(A)",
+            "actionKeyword": "routeFirst",
+            "dialog": "나 아까 음식점에 핸드폰을 두고 왔나 봐. 먼저 가."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "대답을 듣기도 전에 등을 돌렸다. "
+        },
+        {
+            "dialog": "내 말이 들렸는지 안 들렸는지 모르겠다. 핸드폰도 내 주머니에 잘 있다."
+        },
+        {
+        "actionKeyword": "healthGauge-1,sceneEnd,playerMove",
+            "dialog": "하지만 상관없어. 어디론가 가야겠다. 여기 말고."
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeSecond",
+            "dialog": "화목해보이는 가족들의 뒤를 조용히 따라갔다."
+        },
+        {
+            "dialog": "근데 갑자기 배가 알싸하게 아파온다."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "나 약국 좀 들렀다 갈게. 먼저 가."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "대답은 들려오지 않는다. 못 들었나 보다."
+        },
+        {
+            "actionKeyword": "healthGauge-1,sceneEnd,playerMove,routeEnd",
+            "dialog": "뭐 어때. 나는 분명히 말했다. 나중에 없으면 전화하든지 하겠지."
+        }
+    ]
+}

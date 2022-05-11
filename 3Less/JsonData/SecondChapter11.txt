@@ -1,0 +1,61 @@
+{
+    "dialogList": [
+        {
+            "character": "NAR.(SYS)",
+            "actionKeyword": "moneyGauge10",
+            "dialog": "부모님으로부터 용돈을 받았습니다. "
+        },
+        {
+            "character": "NAR.",
+            "dialog": "방학이 유야무야 지나가고 새학기가 시작되었다."
+        },
+        {
+            "actionKeyword": "fadeOut",
+            "dialog": "답답한 삶은 여전하지만 가족 몰래 하고 있는 스트릿 댄스 동아리 활동은 그나마 힘이 되어 주었다."
+        },
+        {
+            "character": "학생",
+            "dialog": "야야야! 너 이거 봤어?"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "뭐?"
+        },
+        {
+            "character": "학생",
+            "dialog": "우리 유X브 스타됐다."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "...뭐?"
+        },
+        {
+            "character": "학생",
+            "dialog": "우리 저번에 했던 플래시몹 있잖아!"
+        },
+        {
+            "dialog": "그거 누가 영상 찍어서 올렸었나 봐."
+        },
+        {
+            "dialog": "지금 조회수 10만 넘어감. 트렌딩에도 올랐어."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "와..."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "얼떨떨하다."
+        },
+        {
+            "dialog": "어제나 오늘이나 생활은 달라진 게 하나도 없는데 갑자기 굉장한 사람이 된 기분이었다."
+        },
+        {
+            "actionKeyword": "healthGauge4",
+            "dialog": "그사이에 소문이 났는지 데면데면하던 친구들까지 축하를 해줬다."
+        },
+		{
+		    "actionKeyword": "playerMove"
+		}
+    ]
+}

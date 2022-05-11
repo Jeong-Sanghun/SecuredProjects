@@ -1,0 +1,34 @@
+{
+    "specialVisitorConditionDataList": [
+        {
+            "priority": 0,
+            "bundleName": "Lily",
+            "appearingChaosMeter": 0.0,
+            "appearingSolvedQuestBundleList": [],
+            "appearingProgressingQuestBundleList": [],
+            "appearingSpecialMedicineList": ["withered_dew"],
+            "appearingLeastDay": 0,
+            "appearingStoryBundleList": []
+        },
+        {
+            "priority": 0,
+            "bundleName": "Jet",
+            "appearingChaosMeter": 0.0,
+            "appearingSolvedQuestBundleList": ["Lily"],
+            "appearingProgressingQuestBundleList": [],
+            "appearingSpecialMedicineList": ["icefruit"],
+            "appearingLeastDay": 0,
+            "appearingStoryBundleList": []
+        },
+        {
+            "priority": 0,
+            "bundleName": "Iris",
+            "appearingChaosMeter": 0.0,
+            "appearingSolvedQuestBundleList": ["Jet"],
+            "appearingProgressingQuestBundleList": [],
+            "appearingSpecialMedicineList": ["metfire"],
+            "appearingLeastDay": 0,
+            "appearingStoryBundleList": []
+        }
+    ]
+}

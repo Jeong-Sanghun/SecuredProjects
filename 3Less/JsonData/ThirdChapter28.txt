@@ -1,0 +1,35 @@
+{
+    "dialogList": [
+        {
+            "character": "NAR.",
+            "dialog": "오늘은 오후에 상담이 있는 날이다."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "동생 찾아왔던 얘기만 하고 마무리할 줄 알았는데."
+        },
+        {
+            "actionKeyword": "fishMove",
+            "dialog": "편의점 관둔 것도 말씀드려야 하나."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "1층 현관에 들어가다 담임선생님을 만났다."
+        },
+        {
+            "dialog": "분위기가 심상치 않다."
+        },
+        {
+            "character": "담임선생님 ",
+            "dialog": "너 선생님 따라와."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "앞서가는 선생님 신발 뒤축만 보면서 교무실 까지 걸었다."
+        },
+        {
+            "actionKeyword": "playerMove",
+            "dialog": "쾅쾅거리는 걸음에 위축된다."
+        }
+    ]
+}

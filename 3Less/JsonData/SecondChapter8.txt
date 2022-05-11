@@ -1,0 +1,125 @@
+{
+    "dialogList": [
+        {
+            "character": "NAR.",
+            "dialog": "식사를 마치고 친구와 헤어졌다."
+        },
+        {
+		            "character": "NAR.",
+            "dialog": "이제 집에 가야 하는데 가고 싶지 않아서 거리를 돌아다녔다."
+        },
+        {
+            "dialog": "그러다 보니 시간이 지나 저녁 시간이 다 되었다."
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "multiRoute3",
+            "dialog": "어디로 갈까?",
+            "routeFirst": "카페",
+            "routeSecond": "패스트푸드점",
+            "routeThird": "PC방",
+            "routeFourth": "찜질방",
+            "routeFifth": "그냥 집으로 돌아간다."
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeFirst,fadeIn",
+            "dialog": "카페에 왔다. "
+        },
+        {
+            "dialog": "새로운 메뉴가 있어서 그걸 시키고 구석에 앉아서 시간을 때웠다."
+        },
+        {
+            "actionKeyword": "moneyGauge-3,healthGauge1,fadeOut",
+            "dialog": "딱히 할 일은 없었지만 음료가 맛있었고 노래도 괜찮았다."
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeSecond,fadeIn",
+            "dialog": "패스트푸드점에 왔다."
+        },
+        {
+            "dialog": "패스트푸드는 거의 먹어 본 적이 없는데 이 기회에 먹게 되네"
+        },
+        {
+            "dialog": "탄산음료까지 세트로 배부르게 먹어도 뭐라고 하는 사람도 없다."
+        },
+        {
+            "actionKeyword": "moneyGauge-2,healthGauge-1,fadeOut",
+            "dialog": "...좋네."
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeThird,fadeIn",
+            "dialog": "PC방에 왔다. "
+        },
+        {
+            "dialog": "컴퓨터 게임이 재미있나... 다들 엄청나게 집중해서 모니터를 쳐다보고 있다."
+        },
+        {
+            "dialog": "이리저리 만져봤지만 뭐가 뭔지 잘 모르겠다. "
+        },
+        {
+            "actionKeyword": "moneyGauge-2,fadeOut",
+            "dialog": "그냥 인터넷 서핑이나 해야지."
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeFourth,fadeIn",
+            "dialog": "명절이라 그런지 가족, 친척끼리 온 사람들이 많은 것 같다."
+        },
+        {
+            "dialog": "모여서 웃고 떠들고 계란도 까먹고, 만화도 보고"
+        },
+        {
+            "dialog": "다들 즐거워 보인다. "
+        },
+        {
+            "dialog": "그래도 사람 소리가 많이 들리니 좀 나은 것 같다."
+        },
+        {
+            "actionKeyword": "moneyGauge-4,healthGauge2,fadeOut",
+            "dialog": "따끈하고 편안하고 괜찮네."
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeFifth,fadeIn",
+            "dialog": "가기는 어딜 가. 그냥 집으로 가자. "
+        },
+        {
+            "dialog": "평소에도 활기가 도는 집은 아니었지만 커다란 집에 혼자 있으니 외롭다."
+        },
+        {
+            "dialog": "할머니 댁에서 즐겁게 지내고 있을 나머지 가족을 생각하니까 더 그런 것 같다."
+        },
+        {
+            "dialog": "밥이라도 사 먹으라고 식탁에 얼마의 용돈이 있긴 했지만 그뿐이다."
+        },
+        {
+            "actionKeyword": "moneyGauge5,healthGauge-1,routeEnd,fadeOut",
+            "dialog": "어디라도 나가야겠다. "
+        },
+        {
+            "actionKeyword": "conditionalJump3,immediateDialog"
+        },
+        {
+		            "character": "NAR.",
+            "dialog": "..."
+        },
+        {
+            "dialog": "어영부영 시간을 보내다 보니 아침이 밝았다. 연휴가 끝나지 않았으니 오늘도 가족 없이 난 혼자다."
+        },
+        {
+            "actionKeyword": "conditionalSceneEnd,playerMove",
+            "dialog": "오늘도 레슨이 끝나고 어디론가 가볼까?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "며칠 간 집에 거의 들어오지 않았다. "
+        },
+        {
+                    "actionKeyword": "playerMove",
+            "dialog": "처음으로 나 혼자서 집밖에서 밤을 지내봤다."
+        }
+    ]
+}

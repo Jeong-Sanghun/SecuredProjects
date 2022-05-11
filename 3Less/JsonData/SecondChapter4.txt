@@ -1,0 +1,198 @@
+{
+    "dialogList": [
+        {
+            "character": "NAR.",
+            "dialog": "집에 돌아가기 싫어서 정신없이 걷다 보니 웬 옥상에 올라왔다. "
+        },
+        {
+            "dialog": "어쩌다 오게 되긴 했지만 생각보다 나쁘지 않은 것 같다. 추운 것 빼면."
+        },
+        {
+            "dialog": "달도 잘 보이네. 왠지 마음이 편안해진다."
+        },
+        {
+            "character": "B",
+            "dialog": "안녕?"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "깜짝이야!"
+        },
+        {
+            "character": "B",
+            "dialog": "엄청 놀라네. 사람 민망하게."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "어, 미안...?"
+        },
+        {
+            "character": "B",
+            "dialog": "뭐야, 그게."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "갑자기 나타난 여자애는 뭐가 그리 재미있는지 깔깔대며 웃었다. "
+        },
+        {
+            "character": "B",
+            "dialog": "너, 지금 기분 별로지?"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "으응?"
+        },
+        {
+            "character": "B",
+            "dialog": "이런 날에 이런 곳까지 와서 달이나 보고 고독 씹고 있으면 뻔하지."
+        },
+        {
+            "dialog": "뭔데? 진로? 학업? 연애? 금전? "
+        },
+        {
+            "dialog": "아니면... 가족?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "나도 모르게 흠칫 놀라버렸다. "
+        },
+        {
+            "character": "B",
+            "dialog": "가족이구나. 왜, 가족들이 너 미워해?"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "그렇게 말하지 마!"
+        },
+        {
+            "character": "B",
+            "dialog": "아, 미안미안."
+        },
+        {
+            "dialog": "말 바꾸면 되지? 가족들이 너 서운하게 해?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "얘, 왠지 짜증나는데."
+        },
+        {
+            "dialog": "한편으로는 다시 볼 사이도 아니고 뭐 어떠랴 싶다."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "그러니까..."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "여자애한테 오늘 있었던 일을 털어놓았다."
+        },
+        {
+            "dialog": "그 애는 의외로 진지하게 잘 들어주었다."
+        },
+        {
+            "dialog": "정신없이 이야기를 하다보니 어느새 시간이 많이 늦었다. "
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "어, 벌써 시간이..."
+        },
+        {
+            "character": "B",
+            "dialog": "들어가야 돼?"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "으응. 오늘 고마웠어. 마음이 좀 편해진 것 같아."
+        },
+        {
+            "character": "B",
+            "dialog": "그렇담 다행이고."
+        },
+        {
+            "character": "B",
+            "dialog": "있지, 혹시 전화번호 교환할래?",
+            "routeFirst": "나이도 비슷해보이니 친구가 되어도 좋을 것 같다. 전화번호를 준다",
+            "routeSecond": "전화번호는 좀... 거절한다. "
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeFirst",
+            "dialog": "여자애가 내미는 핸드폰에 내 번호를 찍었다."
+        },
+        {
+            "character": "B",
+            "dialog": "감사. 난 가끔 답답할 때 여기 올라와. 다음에도 보고 싶으면 연락해."
+        },
+        {
+            "character": "NAR.(SYS)",
+            "dialog": "핸드폰에 '옥상친구'의 번호가 저장되었습니다."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "옥상에서 떠나고 얼마 되지 않아, 그 애에게서 문자가 왔다."
+        },
+                {
+            "actionKeyword": "phoneOn",
+             "character": "B"
+            },
+        {
+            "character": "B",
+                      "actionKeyword": "phoneOff",
+            "dialog": "오늘 이야기 들어서 나도 좋았어. 사실 나도 가족이랑 별로 안 좋아서 공감되더라. 어쩌면 난 곧 집 떠날지도 모르겠다.ㅋㅋ"
+        },
+                {
+            "character": "NAR(SYS)",
+            "dialog": "핸드폰에 도착한 메시지와 SNS에서 더 많은 기억을 살펴볼 수 있습니다. "
+        },
+        {
+            "character": "NAR.",
+            "dialog": "집을 떠난다니, 가출한다는 소리일까?"
+        },
+        {
+            "dialog": "그 말이 뇌리에 박혀 떠나지 않는다..."
+        },
+        {
+            "character": "주인공(A)",
+            "actionKeyword": "routeSecond",
+            "dialog": "어... 초면에 전화번호는 좀. 우리 서로 이름도 모르고."
+        },
+        {
+            "character": "B",
+            "dialog": "뭐, 괜찮아."
+        },
+        {
+            "dialog": "사실 나도 가족이랑 별로 사이 안 좋거든. 난 곧 집 떠날지도 모르겠고..."
+        },
+        {
+            "dialog": "네 이야기 듣다 보니 나도 모르게 친근하게 느껴져서 그랬나 봐."
+        },
+        {
+            "dialog": "신경쓰지 마."
+        },
+        {
+            "actionKeyword": "routeEnd,healthGauge1",
+            "dialog": "그래도 나 여기 종종 오니까 우연히 만날 수도 있겠다."
+        },
+		{
+		  "actionKeyword": "playerMove"
+		},
+        {
+            "character": "NAR.",
+            "dialog": "핸드폰을 확인해보았지만 집에서 별다른 연락이 온 건 없었다."
+        },
+        {
+            "dialog": "하지만 시간이 너무 늦었는데... 혼날까봐 심장이 두근거린다."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "헐레벌떡 집으로 돌아왔다. "
+        },
+        {
+            "dialog": "다행히 집은 고요하다. 모두 잠든 것 같다."
+        },
+        {
+            "actionKeyword": "sceneEnd",
+            "dialog": "그렇지만 왠지 기분이 좋지 않아."
+        }
+    ]
+}

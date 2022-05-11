@@ -1,0 +1,19 @@
+{
+    "treeterConditionList": [
+        {
+            "fileName": "WinWin",
+            "printSprite": true,
+            "dayCondition": 0
+        },
+        {
+            "fileName": "TheBeautyOfVoid",
+            "printSprite": true,
+            "dayCondition": 1
+        },
+        {
+            "fileName": "Siren",
+            "printSprite": true,
+            "dayCondition": 2
+        }
+    ]
+}

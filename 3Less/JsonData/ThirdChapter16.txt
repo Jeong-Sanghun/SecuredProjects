@@ -1,0 +1,146 @@
+{
+    "dialogList": [
+        {
+            "character": "담임선생님 ",
+            "dialog": "왔구나."
+        },
+        {
+            "dialog": "여기 좀 앉아봐."
+        },
+        {
+            "dialog": "다른게 아니고, 너 요즘 어디 안좋은가 해서."
+        },
+        {
+            "dialog": "요새 수업시간에도 눈에 띄게 자더라."
+        },
+        {
+            "dialog": "장염기가 계속 가는거니?"
+        },
+        {
+            "dialog": "아니면 무슨 일이 있는거야?",
+            "routeFirst": "정신적으로 힘들다고 말한다.",
+            "routeSecond": "몸이 힘들다고 둘러댄다."
+        },
+        {
+            "character": "주인공 (A)",
+            "actionKeyword": "routeFirst",
+            "dialog": "요새 좀 스트레스를 받아서 그런 것 같아요."
+        },
+        {
+            "character": "담임선생님 ",
+            "dialog": "학교, 아니면 집?"
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "부모님이랑 요새 사이가 안좋아서요."
+        },
+        {
+            "character": "담임선생님 ",
+            "dialog": "왜, 부모님이랑 싸웠어?"
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "서로 언성 높이면서 싸운건 아닌데, 대화가 잘 안통해요."
+        },
+        {
+            "dialog": "동생은 잘만 지내는 것 같은데…"
+        },
+        {
+            "character": "담임선생님 ",
+            "dialog": "부모님이랑 사이가 서먹해졌나 보네."
+        },
+        {
+            "dialog": "집에 있으면 힘들겠다."
+        },
+        {
+            "character": "NAR. ",
+            "dialog": "그래서 이미 나왔다고는 할 수 없어 고개를 끄덕거렸다."
+        },
+        {
+            "character": "담임선생님 ",
+            "dialog": "원래 지금 시기에 부모님이 뭘 하셔도 혼란스럽긴 해."
+        },
+        {
+            "dialog": "그래도 한번 대화 하려는 시도는 해봐, 알겠지?"
+        },
+        {
+            "dialog": "꼭 의미있는 결과를 끌어내야 성공한 건 아니니까."
+        },
+        {
+            "character": "NAR. ",
+            "actionKeyword": "healthGauge+2",
+            "dialog": "무슨 일인지는 몰라도 위로해주시려고 하는게 느껴졌다. "
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeSecond",
+            "dialog": "검색결과에서 봤던 가출청소년 귀가지도 게시물이 떠올랐다."
+        },
+        {
+            "dialog": "귀찮아지기 싫어 대충 둘러댔다."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "그때 몸이 상했나봐요."
+        },
+        {
+            "dialog": "잠도 잘 안오고 소화도 잘 안돼서요."
+        },
+        {
+            "dialog": "밥 먹으면 체하거나 졸리고 누우면 못 자요."
+        },
+        {
+            "character": "담임선생님 ",
+            "dialog": "병원에는 가봤어?"
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "시간이 없어서 못 가봤어요."
+        },
+        {
+            "dialog": "그 정도로 아픈건 아니라고 생각해서…"
+        },
+        {
+            "character": "담임선생님 ",
+            "dialog": "계속 아프면 가야지."
+        },
+        {
+            "dialog": "얕게 아파도 길게가면 병원 다니면서 상태 보는거야."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "병원에서 아무 이상도 없다고 하면 어떡하죠?"
+        },
+        {
+            "character": "담임선생님 ",
+            "dialog": "무슨 그런걸 걱정해."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "선생님은 잠시 생각하는 표정을 지으셨다."
+        },
+        {
+            "actionKeyword": "healthGauge-1,routeEnd",
+            "dialog": "선생님도 내가 이상한 놈이라고 생각하시는 걸까?"
+        },
+        {
+            "character": "담임선생님 ",
+            "dialog": "나중에라도 힘든 일이 생기거나 힘들다고 느끼면 꼭 다른 사람이랑 상의해봐."
+        },
+        {
+            "dialog": "알겠지?"
+        },
+        {
+            "dialog": "혼자만 삭히면 몸 상해. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "신경쓸께요. "
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "playerMove",
+            "dialog": "좋은 분이시지만 가출 사실을 알릴 정도로 신뢰가 가지는 않는다. "
+        }
+    ]
+}

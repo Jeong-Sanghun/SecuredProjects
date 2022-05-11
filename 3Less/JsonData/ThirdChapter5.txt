@@ -1,0 +1,35 @@
+{
+    "dialogList": [
+        {
+            "actionKeyword": "soundMessageAlarm"
+        },
+        {
+            "character": "사장",
+            "actionKeyword": "phoneOn"
+        },
+        {
+            "character": "사장(MES)",
+            "dialog": "지원문자 보고 연락드립니다."
+        },
+        {
+            "dialog": "오늘 3시쯤에 면접 가능하신가요?"
+        },
+        {
+            "character": "주인공(MES)",
+            "actionKeyword": "phoneOff",
+            "dialog": "네, 가능합니다!"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "처음 보는 면접이니까 정신 제대로 차리고 해야지!"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "친구에게 미리 면접을 보고 온다고 알렸다."
+        },
+        {
+            "actionKeyword": "playerMove",
+            "dialog": "최대한 단정한 차림으로 갈아입고 면접장소로 향했다."
+        }
+    ]
+}

@@ -1,0 +1,300 @@
+{
+    "dialogList": [
+        {
+            "character": "NAR.",
+            "dialog": "아르바이트에서 생긴 일이 생각할 수록 분하다.."
+        },
+        {
+            "dialog": "한참을 고민하다 이런 경우에는 어떻게 대처해야 하냐고 사장에게 문자를 넣었다."
+        },
+        {
+            "character": "자취방 친구 ",
+            "dialog": "이상하다."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "왜그래?"
+        },
+        {
+            "character": "자취방 친구 ",
+            "dialog": "요새 집에 날파리가 너무 많아. "
+        },
+        {
+            "dialog": "날이 따뜻해져서 그런가?"
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "그러게, 음식물쓰레기는 어제 다 버렸는데. "
+        },
+        {
+            "character": "NAR.",
+            "dialog": "문제의 원인을 찾아 집 이곳저곳을 달칵거리던 친구가 비명을 지른다.",
+            "routeFirst": "싱크대가 왜?",
+            "routeSecond": "욕실이 왜?"
+        },
+        {
+            "character": "주인공 (A)",
+            "actionKeyword": "routeFirst",
+            "dialog": "너 싱크대 배수망 안버렸던 거였어?"
+        },
+        {
+            "character": "자취방 친구 ",
+            "dialog": "나는 설거지는 너가 한다길래 당연히 배수망도 비우는 줄 알았지...."
+        },
+        {
+            "dialog": "여기는 방이 좁아서 배수망도 이틀 넘게 내버려두면 안돼."
+        },
+        {
+            "dialog": "미안해, 지금치울게."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "배수망은 이미 구더기 천지였다."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "비닐 장갑을 끼고 거름망을 빼낼 때 구더기 한마리가 손목에 묻었다. "
+        },
+        {
+            "dialog": "겨우 거름망을 비우고 나서야 밥알 같은 애벌레를 떼어냈다."
+        },
+        {
+            "dialog": "비위가 상했다."
+        },
+        {
+            "dialog": "맞아 이거랑, 샤워하고나서 욕실 환기도 제대로 해줘."
+        },
+        {
+            "character": "자취방 친구 ",
+            "dialog": "곰팡이도 잘 슬거든."
+        },
+        {
+            "dialog": "조금만 신경써줘."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "응, 확인할게."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "배수망을 갈려고 보니 이미 다 바닥이 났다."
+        },
+        {
+            "actionKeyword": "healthGauge-1,moneyGauge-2",
+            "dialog": "조용히 내 돈으로 배수망을 사왔다."
+        },
+        {
+            "character": "자취방 친구 ",
+            "actionKeyword": "routeSecond",
+            "dialog": "여기 물 고이는거 안빼줬어?"
+        },
+        {
+            "dialog": "이 집 환기가 잘 안되서 샤워하고 물 안빼주면 여기에 벌레 생겨!"
+        },
+        {
+            "dialog": "저기 보이는게 다 알이야."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "고인 물에 뭔가 애벌레 같은게 보였다."
+        },
+        {
+            "dialog": "하천에서나 보던 것이라 징그러웠다."
+        },
+        {
+            "character": "자취방 친구 ",
+            "dialog": "이거 청소해야할 것 같은데...."
+        },
+        {
+            "dialog": "내가 할게. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "솔로 하면 되지?"
+        },
+        {
+            "dialog": "욕실 솔 지금 망가졌는데."
+        },
+        {
+            "dialog": "바로 사올게!"
+        },
+        {
+            "character": "자취방 친구 ",
+            "dialog": "부탁할게."
+        },
+        {
+            "dialog": "다음 부터는 나도 조심할게."
+        },
+        {
+            "dialog": "솔을 산다는 핑계로 집밖으로 뛰쳐나왔다."
+        },
+        {
+            "dialog": "미안하고 민망했다."
+        },
+        {
+            "actionKeyword": "moneyGauge-3,routeEnd",
+            "dialog": "괜히 솔과 함께 과자를 같이 샀다."
+        },
+        {
+            "actionKeyword": "soundMessageAlarm",
+            "dialog": "같이 지내려면 좀 더 신경써야할 것 같다. "
+        },
+        {
+            "character": "편의점 사장(MES)",
+            "actionKeyword": "phoneOn"
+        },
+        {
+            "character": "편의점 사장(MES)",
+            "dialog": "그런거 하나하나 다 물어보진 않았으면 좋겠다."
+        },
+        {
+            "dialog": "여기가 학교도 아니고. "
+        },
+        {
+            "character": "주인공 (A)(MES)",
+            "dialog": "그러면 그 분들 가실 때까지 가만히 있으면 되나요?"
+        },
+        {
+            "character": "편의점 사장(MES)",
+            "dialog": "적당히 내보내야지. "
+        },
+        {
+            "character": "주인공 (A)(MES)",
+            "dialog": "그래도 어떻게 말해야할지 잘 모르겠어요."
+        },
+        {
+            "character": "편의점 사장(MES)",
+            "dialog": "CCTV있다고 하던지, 경찰부른다고 해. 그러면 대충 지나가. "
+        },
+        {
+            "character": "주인공 (A)(MES)",
+            "actionKeyword": "phoneOff",
+            "dialog": "넵, 알겠습니다!"
+        },
+        {
+            "character": "자취방 친구 ",
+            "dialog": "괜찮아?"
+        },
+        {
+            "dialog": "혹시 저거 치우는 것 때문에 그래?"
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "아니, 아니야! "
+        },
+        {
+            "dialog": "알바 일 때문에 그래. "
+        },
+        {
+            "character": "자취방 친구 ",
+            "dialog": "무슨 일인데?",
+            "routeFirst": "얹혀 사는 마당에 감정적으로 의존하기 싫다. 말하지 말자.",
+            "routeSecond": "속으로 삭히기엔 부글부글 터질 것 같다. 무슨 일인지 말하자."
+        },
+        {
+            "character": "주인공 (A)",
+            "actionKeyword": "routeFirst",
+            "dialog": "정말 별 거 아니야. "
+        },
+        {
+            "dialog": "그냥 아르바이트까지 하고오니까 피곤했나봐."
+        },
+        {
+            "dialog": "앞으로는 내가 더 신경쓸게."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "친구는 대답이 미심쩍은지 미간을 모은다."
+        },
+        {
+            "character": "자취방 친구 ",
+            "dialog": "불편하거나 기분 상한 일 있으면 말해줘."
+        },
+        {
+            "dialog": "안 말해주면 아무것도 모르고 옆에서 눈치만 보게 되거든."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "그럴게. "
+        },
+        {
+            "dialog": "너도 피곤할 테니까 얼른자. "
+        },
+        {
+            "character": "NAR.",
+            "dialog": "가슴이 답답하다."
+        },
+        {
+            "actionKeyword": "healthGauge-4",
+            "dialog": "얘 아니면 정말 얘기할 곳도 없는데. "
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "routeSecond",
+            "dialog": "진상 취객과 점장의 꼬리자르기까지 모두 얘기했다."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "처음엔 귀찮은 듯이 듣던 친구의 표정이 찌푸러든다."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "말이 길었지?"
+        },
+        {
+            "dialog": "너한테는 하소연만 하게되네. 들어줘서 고마워."
+        },
+        {
+            "character": "자취방 친구 ",
+            "dialog": "뭐 그런 인간들이 다있어?"
+        },
+        {
+            "dialog": "어이없었겠다."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "하하..."
+        },
+        {
+            "character": "자취방 친구 ",
+            "dialog": "생활비 보태겠다고 그런 아르바이트 하는거면 관둬."
+        },
+        {
+            "dialog": "그렇게 까지 할게 어딨어."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "그래도 월급은 받아보고 나와야지."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "무전취식으로 언제까지나 빌붙어도 괜찮다는 뜻은 아닐 것이다."
+        },
+        {
+            "dialog": "말 뿐인 위로에도 꽤 힘이 났다."
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "고마워, 너 아니면 진짜 속상했을 것 같아. "
+        },
+        {
+            "dialog": "월급 나오면 내가 밥 살게."
+        },
+        {
+            "character": "자취방 친구 ",
+            "dialog": "무슨 밥을 사, 너부터 챙겨. "
+        },
+        {
+            "character": "주인공 (A)",
+            "dialog": "다른 곳도 면접보러 다니면서 더 괜찮은 곳 생기면 옮겨버려야지."
+        },
+        {
+            "character": "NAR.",
+            "actionKeyword": "healthGauge+2,routeEnd",
+            "dialog": "자취방 식객으로 지낼 수 있을 때 최대한 아르바이트를 많이 해놔야겠다."
+        },
+        {
+            "actionKeyword": "playerMove"
+        }
+    ]
+}

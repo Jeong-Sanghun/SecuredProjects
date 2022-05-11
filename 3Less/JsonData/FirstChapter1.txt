@@ -1,0 +1,202 @@
+﻿{
+    "dialogList": [
+        {
+            "character": "NAR.",
+            "dialog": "...떨어진 게 사람인가?"
+        },
+        {
+            "dialog": "아?"
+        },
+        {
+            "actionKeyword": "fadeOut",
+            "dialog": "눈이 감긴 적도 없이 한 번 더 떠졌다."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "이게 뭐야?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "평소에는 절대로 안 입을 것 같은 복식이다."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "회사 어디 갔어?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "분명히 야근 중에, 회사 창문에서, 떨어지는 사람을 봤는데..."
+        },
+        {
+            "actionKeyword": "zoomOut",
+            "dialog": "근데 여긴 어디지?"
+        },
+        {
+            "dialog": "동화책에서 튀어 나온 듯한 종이 공작 별세계가 펼쳐져있다."
+        },
+        {
+            "dialog": "쏟아질 듯 하늘을 가득 채운 별, TV에서나 보던 너른 들판과 세상을 집어삼킬 듯 새카만 호수."
+        },
+        {
+            "dialog": "너무 생소한 광경에 무서울 지경이다."
+        },
+        {
+            "dialog": "몸을 뒤적여봐도 고급스러운 옷감의 재질만 느껴질 뿐 정작 찾고 있는 휴대전화는 없다."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "내 옷 어디 가고 이런 걸 입고 있지?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "시선을 내려다보니 섬세한 손과 다리가 보인다. 낯설다."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "저 물웅덩이에서 한 번 제대로 살펴보자."
+        },
+        {
+            "character": "NAR.(SYS)",
+            "actionKeyword": "playerMoveFirst",
+            "dialog": "화면의 좌, 우 터치로 양 옆으로 이동할 수 있습니다."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "이거 누구야..."
+        },
+        {
+            "dialog": "완전 어린애잖아."
+        },
+        {
+            "dialog": "헉! "
+        },
+        {
+            "dialog": "이 눈... 아까 떨어지던 사람인가...?"
+        },
+        {
+            "dialog": "그러기엔 이 몸... 너무 어린데."
+        },
+        {
+            "character": "NAR.",
+            "dialog": "나는 어떻게 된 걸까. 꿈이라도 꾸는 걸까?"
+        },
+        {
+            "character": "주인공(A)",
+            "actionKeyword": "stop1seconds",
+            "dialog": "그래, 이런 게 둥둥 떠다니는 데 현실은 아니겠지."
+        },
+        {
+            "character": "주인공(A)",
+            "actionKeyword": "stop0.5seconds,fishMoveFirst",
+            "dialog": "...언제까지고 혼란스러워만 할 수는 없어. 뭐가 어떻게 된 건지 알아봐야겠어."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "악!"
+        },
+        {
+            "dialog": "뭔 금붕어가 이렇게 커? 떠 다녀? 이게 뭔데!"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "금붕어는 허공에 고요하게 떠 있다. 바람 한 점 불지 않는데 지느러미가 하늘하늘 나부낀다.  "
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "살아 있는 건가...?"
+        },
+        {
+            "character": "NAR.",
+            "dialog": "둥그렇게 뜬 눈을 빤히 바라보지만 미동도 없다."
+        },
+        {
+            "dialog": "모형치고는 보석처럼 잘 세공된 비늘과 나비 날개 같은 지느러미가 너무 정교하다."
+        },
+        {
+            "character": "금붕어",
+            "dialog": "내 꿈에 온 걸 환영해."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "악! 살아있어! 말도 해! 뭔데, 이거 뭐냐고!"
+        },
+        {
+            "dialog": "내가 네 꿈 속에 있다고? 이건 무슨 소리야?"
+        },
+        {
+            "character": "금붕어",
+            "dialog": "여기서는 안전해. 걱정도 불안도 없으니 편히 쉬자."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "어... 혼자 쉬는 건 어때? 난 돌아가야 할 곳이 있어서..."
+        },
+        {
+            "character": "금붕어",
+            "dialog": "왜 돌아가고 싶은 거야?"
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "일단 여기는 내가 있던 곳이랑 너무 다르고, 언제까지나 꿈만 꾸고 있을 수는 없으니까..."
+        },
+        {
+            "character": "금붕어",
+            "dialog": "바깥은 위험하고 무섭고 차가워. 영원히 꿈을 꾸는 게 뭐가 나빠?"
+        },
+        {
+            "actionKeyword": "fishMoveSecond",
+            "dialog": "이쪽으로 가자. 달빛이 잘 들어서 편안하거든."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "야, 어디 가!"
+        },
+        {
+            "actionKeyword": "playerMoveSecond",
+            "dialog": "뭐 저렇게 제멋대로인 녀석이 있어!"
+        },
+        {
+            "character": "금붕어",
+            "dialog": "너도 내가 제멋대로라고 생각하는구나?"
+        },
+        {
+            "dialog": "나밖에 모르고 나 하고 싶은대로만 한다고?"
+        },
+        {
+            "dialog": "...뭐 상관없어. 이제는 다 끝났으니까."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "다 끝났다고?"
+        },
+        {
+            "dialog": "너..."
+        },
+        {
+            "dialog": "방금 떨어진 그 애구나?"
+        },
+        {
+            "character": "금붕어",
+            "dialog": "...누구를 가리키는 건지 모르겠어."
+        },
+        {
+            "character": "주인공(A)",
+            "dialog": "그럼 넌 누군데?"
+        },
+        {
+            "dialog": "아니, 말하기 싫으면 하지 않아도 돼. "
+        },
+        {
+            "dialog": "그냥 나 좀 돌려보내 주면 안 돼?"
+        },
+        {
+            "actionKeyword": "playerMoveThird,fishMoveThird",
+            "dialog": "근데 우리 지금 어디로 가는 거야?"
+        },
+        {
+            "character": "NAR.(SYS)",
+			"actionKeyword": "sceneEnd,playerMove",
+            "dialog": "맵의 조형물을 통해 다음 맵으로 이동합니다."
+        }
+    ]
+}

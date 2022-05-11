@@ -1,0 +1,33 @@
+{
+    "documentConditionList": [
+        {
+            "folderIngameName": "머쉬베놈",
+						"folderFileName": "MushVenom",
+            "fileName": "Go",
+            "ingameName": "가다(feat. 사이먼 도미닉, The Quiett)",
+			"printSprite" : true
+        },
+        {
+            "folderIngameName": "하현우",
+						"folderFileName": "Ha-Hyunwoo",
+            "fileName": "Vagabond",
+            "ingameName": "Vagabond",
+			"printSprite" : true
+        },
+        {
+            "folderIngameName": "머쉬베놈",
+						"folderFileName": "MushVenom",
+            "fileName": "TheBeautyOfVoid",
+            "ingameName": "여백의 미(feat. Jessi, Justhis)",
+			"printSprite" : true
+
+        },
+		{
+            "folderIngameName": "안예은",
+						"folderFileName": "AhnYeun",
+            "fileName": "Octopus",
+            "ingameName": "문어의 꿈",
+			"printSprite" : false
+        }
+    ]
+}
